@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "ytLink": "https://www.youtube.com/watch?v=xcHBC6XA3aA",
+      "ytTitle": "【挑戰台湾小學考卷】我四年級了唷～目標是小學畢業！ 【Torakolive】",
+      "mp3": [
+        {
+          "dataName": "xcHBC6XA3aA-000633",
+          "title": "哇就勾錐，哇咩臭豆花(?)",
+          "tags": [
+            "罵倒",
+            "定番"
+          ]
+        },
+        {
+          "dataName": "xcHBC6XA3aA-002202",
+          "title": "我的腦袋裡面在BURA，YABE",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "ytLink": "https://www.youtube.com/watch?v=kA5s94okaRg",
+      "ytTitle": "報台湾新聞的日本主播！用字幕君證明台湾老師教得很標準（大概） | 虎子播新聞#42",
+      "mp3": [
+        {
+          "dataName": "kA5s94okaRg-10m43s",
+          "title": "Gununu",
+          "tags": [
+            "怪聲"
+          ]
+        },
+        {
+          "dataName": "xcHBC6XA3aA-002202",
+          "title": "歐尼醬~",
+          "tags": []
+        }
+      ]
+    }
+  ]
+}
